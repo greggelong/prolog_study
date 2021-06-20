@@ -11,3 +11,7 @@ some prolog study programs
 ## using SWI prolog on Linux and Windows
 ## x-prolog on android
 
+Wow havent been here in a while. 
+
+for some  reason I am interested in GOFAI again
+
